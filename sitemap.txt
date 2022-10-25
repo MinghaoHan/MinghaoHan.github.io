@@ -1,7 +1,7 @@
-http://alexhan.life/categories/index.html
-http://alexhan.life/about/index.html
-http://alexhan.life/tags/index.html
-http://alexhan.life/4a17b156.html
-http://alexhan.life/a022e3d6.html
-http://alexhan.life/
-http://alexhan.life/tags/%E6%8A%80%E6%9C%AF/
+https://minghaohan.github.io/categories/index.html
+https://minghaohan.github.io/about/index.html
+https://minghaohan.github.io/tags/index.html
+https://minghaohan.github.io/4a17b156.html
+https://minghaohan.github.io/a022e3d6.html
+https://minghaohan.github.io/
+https://minghaohan.github.io/tags/%E6%8A%80%E6%9C%AF/
