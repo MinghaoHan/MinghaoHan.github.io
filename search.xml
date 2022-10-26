@@ -4,17 +4,36 @@
   
     
     <entry>
-      <title>git教程</title>
-      <link href="/a022e3d6.html"/>
-      <url>/a022e3d6.html</url>
+      <title>Hexo+Next 博客升级日志</title>
+      <link href="/99263b98.html"/>
+      <url>/99263b98.html</url>
       
-        <content type="html"><![CDATA[<h1 id="版本控制历史"><a href="#版本控制历史" class="headerlink" title="版本控制历史"></a>版本控制历史</h1><ol><li>diff -u origin current &gt; diff.txt<br>patch current &lt; diff.txt<br>patch -R current &lt; diff.txt</li><li>CVS (concurrent Versions System)<br>实用至上<br>commit log, checkin, checkout, tag, branch</li><li>SVN (Subversion)<br>有全局版本号，不再是每个文件都有自己的版本号。实现原子提交。支持文件、目录重命名。</li><li>Git<br>Linus引入分布式版本控制系统BitKeeper，没有集中的版本库，每个人都有完整的版本库。</li></ol><h1 id="Git"><a href="#Git" class="headerlink" title="Git"></a>Git</h1><div class="pdf-container" data-target="alex.pdf" data-height="500px"></div>]]></content>
+        <content type="html"><![CDATA[<p>前端小菜鸡，到处搬运大佬的博客搭建教程，最后有了自己的博客。把这些教程整理了一下，需要自取。</p><span id="more"></span>]]></content>
       
       
       
         <tags>
             
             <tag> 技术 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>git教程</title>
+      <link href="/a022e3d6.html"/>
+      <url>/a022e3d6.html</url>
+      
+        <content type="html"><![CDATA[<p>Git是目前最流行，最方便的分布式版本控制系统。</p><span id="more"></span><h1 id="版本控制历史"><a href="#版本控制历史" class="headerlink" title="版本控制历史"></a>版本控制历史</h1><ol><li>diff -u origin current &gt; diff.txt<br>patch current &lt; diff.txt<br>patch -R current &lt; diff.txt</li><li>CVS (concurrent Versions System)<br>实用至上<br>commit log, checkin, checkout, tag, branch</li><li>SVN (Subversion)<br>有全局版本号，不再是每个文件都有自己的版本号。实现原子提交。支持文件、目录重命名。</li><li>Git<br>Linus引入分布式版本控制系统BitKeeper，没有集中的版本库，每个人都有完整的版本库。</li></ol><h1 id="Git"><a href="#Git" class="headerlink" title="Git"></a>Git</h1><div class="pdf-container" data-target="alex.pdf" data-height="500px"></div>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 工具 </tag>
             
         </tags>
       

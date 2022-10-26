@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://minghaohan.github.io/about/index.html</loc>
+    <loc>http://blog.alexhan.life/gallery/index.html</loc>
     
     <lastmod>2022-10-26</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://minghaohan.github.io/a022e3d6.html</loc>
+    <loc>http://blog.alexhan.life/about/index.html</loc>
     
     <lastmod>2022-10-26</lastmod>
     
@@ -20,7 +20,25 @@
   </url>
   
   <url>
-    <loc>https://minghaohan.github.io/categories/index.html</loc>
+    <loc>http://blog.alexhan.life/a022e3d6.html</loc>
+    
+    <lastmod>2022-10-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.alexhan.life/99263b98.html</loc>
+    
+    <lastmod>2022-10-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.alexhan.life/categories/index.html</loc>
     
     <lastmod>2022-10-25</lastmod>
     
@@ -29,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://minghaohan.github.io/tags/index.html</loc>
+    <loc>http://blog.alexhan.life/tags/index.html</loc>
     
     <lastmod>2022-10-25</lastmod>
     
@@ -38,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://minghaohan.github.io/4a17b156.html</loc>
+    <loc>http://blog.alexhan.life/4a17b156.html</loc>
     
     <lastmod>2022-10-24</lastmod>
     
@@ -48,7 +66,7 @@
   
 
   <url>
-    <loc>https://minghaohan.github.io/</loc>
+    <loc>http://blog.alexhan.life/</loc>
     <lastmod>2022-10-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -56,7 +74,14 @@
 
   
   <url>
-    <loc>https://minghaohan.github.io/tags/%E6%8A%80%E6%9C%AF/</loc>
+    <loc>http://blog.alexhan.life/tags/%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2022-10-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.alexhan.life/tags/%E5%B7%A5%E5%85%B7/</loc>
     <lastmod>2022-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
