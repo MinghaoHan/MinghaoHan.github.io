@@ -8,7 +8,7 @@
       <link href="/a022e3d6.html"/>
       <url>/a022e3d6.html</url>
       
-        <content type="html"><![CDATA[<p>git常用命令</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="版本控制历史"><a href="#版本控制历史" class="headerlink" title="版本控制历史"></a>版本控制历史</h1><ol><li>diff -u origin current &gt; diff.txt<br>patch current &lt; diff.txt<br>patch -R current &lt; diff.txt</li><li>CVS (concurrent Versions System)<br>实用至上<br>commit log, checkin, checkout, tag, branch</li><li>SVN (Subversion)<br>有全局版本号，不再是每个文件都有自己的版本号。实现原子提交。支持文件、目录重命名。</li><li>Git<br>Linus引入分布式版本控制系统BitKeeper，没有集中的版本库，每个人都有完整的版本库。</li></ol><h1 id="Git"><a href="#Git" class="headerlink" title="Git"></a>Git</h1><div class="pdf-container" data-target="alex.pdf" data-height="500px"></div>]]></content>
       
       
       
