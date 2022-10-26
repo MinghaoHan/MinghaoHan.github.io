@@ -6,5 +6,5 @@ http://blog.alexhan.life/categories/index.html
 http://blog.alexhan.life/tags/index.html
 http://blog.alexhan.life/4a17b156.html
 http://blog.alexhan.life/
-http://blog.alexhan.life/tags/%E6%8A%80%E6%9C%AF/
 http://blog.alexhan.life/tags/%E5%B7%A5%E5%85%B7/
+http://blog.alexhan.life/tags/%E6%8A%80%E6%9C%AF/
