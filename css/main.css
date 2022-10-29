@@ -2915,7 +2915,7 @@ mark.search-keyword {
   }
 }
 body {
-  background-image: url("/images/background.jpg");
+  background-image: url("http://mypic.alexhan.life/background.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;
