@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://blog.alexhan.life/99263b98.html</loc>
+    <loc>http://blog.alexhan.life/gallery/photoslist.json</loc>
+    
+    <lastmod>2022-11-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.alexhan.life/gallery/index.html</loc>
     
     <lastmod>2022-10-31</lastmod>
     
@@ -12,6 +21,15 @@
   
   <url>
     <loc>http://blog.alexhan.life/a022e3d6.html</loc>
+    
+    <lastmod>2022-10-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.alexhan.life/99263b98.html</loc>
     
     <lastmod>2022-10-31</lastmod>
     
@@ -47,15 +65,6 @@
   </url>
   
   <url>
-    <loc>http://blog.alexhan.life/gallery/index.html</loc>
-    
-    <lastmod>2022-10-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://blog.alexhan.life/categories/index.html</loc>
     
     <lastmod>2022-10-25</lastmod>
@@ -85,7 +94,7 @@
 
   <url>
     <loc>http://blog.alexhan.life/</loc>
-    <lastmod>2022-10-31</lastmod>
+    <lastmod>2022-11-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -93,14 +102,14 @@
   
   <url>
     <loc>http://blog.alexhan.life/tags/%E5%B7%A5%E5%85%B7/</loc>
-    <lastmod>2022-10-31</lastmod>
+    <lastmod>2022-11-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.alexhan.life/tags/%E6%8A%80%E6%9C%AF/</loc>
-    <lastmod>2022-10-31</lastmod>
+    <lastmod>2022-11-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

@@ -32,7 +32,7 @@
     })();
   </script>
 
-<script class="next-config" data-name="main" type="application/json">{"hostname":"blog.alexhan.life","root":"/","images":"/images","scheme":"Gemini","darkmode":true,"version":"8.13.1","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":true},"copycode":{"enable":true,"style":"flat"},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":true,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"stickytabs":false,"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.xml","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}}</script><script src="/js/config.js"></script>
+<script class="next-config" data-name="main" type="application/json">{"hostname":"blog.alexhan.life","root":"/","images":"/images","scheme":"Gemini","darkmode":true,"version":"8.13.1","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":true},"copycode":{"enable":true,"style":"flat"},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":{"enable":false,"onlypost":false,"loadingImg":"/images/loading.svg"},"pangu":true,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"stickytabs":false,"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.xml","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}}</script><script src="/js/config.js"></script>
 
     <meta name="description" content="前端小菜鸡，到处搬运大佬的博客搭建教程，最后有了自己的博客。把教程都整理了一下。">
 <meta property="og:type" content="article">
@@ -490,10 +490,6 @@ if(canvas.getContext){
     </header>
 
     
-  <div class="back-to-top" role="button" aria-label="返回顶部">
-    <i class="fa fa-arrow-up"></i>
-    <span>0%</span>
-  </div>
   <div class="reading-progress-bar"></div>
 
 <noscript>
@@ -647,7 +643,7 @@ timezone: <span class="token operator">&lt;</span>时区<span class="token opera
   enable: <span class="token boolean">true</span>
 </code></pre>
 <p>效果：</p>
-<img src="/99263b98/1.png" class="">
+<img data-src="/99263b98/1.png" class="">
 
 <h3 id="阅读时间统计"><a href="#阅读时间统计" class="headerlink" title="阅读时间统计"></a>阅读时间统计</h3><p>给博客文章添加一下字数以及阅读时间统计。安装：</p>
 <pre class=" language-bash"><code class="language-bash"><span class="token function">npm</span> <span class="token function">install</span> hexo-symbols-count-time
@@ -705,7 +701,7 @@ timezone: <span class="token operator">&lt;</span>时区<span class="token opera
     order<span class="token punctuation">:</span> <span class="token operator">-</span><span class="token number">2</span>
 </code></pre>
 <p>效果：</p>
-<img src="/99263b98/2.png" class="">
+<img data-src="/99263b98/2.png" class="">
 
 <h3 id="加载进度条"><a href="#加载进度条" class="headerlink" title="加载进度条"></a>加载进度条</h3><p>主配文件中pace下设置为true，选择样式。需要用npm提前安装对应的依赖。</p>
 <h3 id="摘要"><a href="#摘要" class="headerlink" title="摘要"></a>摘要</h3><p>在每篇博客中加入&lt;!–more–&gt;，之前的内容则会作为摘要。</p>
@@ -885,8 +881,8 @@ waline:
 
           <div class="post-nav">
             <div class="post-nav-item">
-                <a href="/a022e3d6.html" rel="prev" title="git教程">
-                  <i class="fa fa-chevron-left"></i> git教程
+                <a href="/a022e3d6.html" rel="prev" title="Git教程">
+                  <i class="fa fa-chevron-left"></i> Git教程
                 </a>
             </div>
             <div class="post-nav-item">
@@ -931,7 +927,7 @@ waline:
     <span class="post-meta-item-icon">
       <i class="fa fa-coffee"></i>
     </span>
-    <span title="站点阅读时长">14 分钟</span>
+    <span title="站点阅读时长">13 分钟</span>
   </span>
 </div>
 <div class="busuanzi-count">
@@ -983,6 +979,7 @@ setInterval("createtime()",250);
   <script src="https://cdnjs.cloudflare.com/ajax/libs/next-theme-pjax/0.5.0/pjax.min.js" integrity="sha256-3NkoLDrmHLTYj7csHIZSr0MHAFTXth7Ua/DDt4MRUAg=" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/lozad.js/1.16.0/lozad.min.js" integrity="sha256-mOFREFhqmHeQbXpK2lp4nA3qooVgACfh88fpJftLBbc=" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/pangu/4.0.7/pangu.min.js" integrity="sha256-j+yj56cdEY2CwkVtGyz18fNybFGpMGJ8JxG3GSyO2+I=" crossorigin="anonymous"></script>
 <script src="/js/comments.js"></script><script src="/js/utils.js"></script><script src="/js/motion.js"></script><script src="/js/next-boot.js"></script><script src="/js/pjax.js"></script>
 
