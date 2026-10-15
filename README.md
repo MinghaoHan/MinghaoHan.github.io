@@ -8,7 +8,7 @@
 - `portfolio/profile.js`：简介、项目、工作教育经历与技能数据。
 - `portfolio/app.js`：栏目路由、项目筛选、搜索与展开详情。
 - `portfolio/style.css`：桌面与手机排版。
-- `portfolio/avatar.png`：本人的公开 GitHub 头像。
+- 头像：引用本人公开的 GitHub 头像地址。
 - `blog.html`：原博客首页完整副本。旧文章、归档及静态资源沿用原路径。
 
 个人经历与项目指标由本人提供的简历整理。未上传含私人电话和微信的原始 PDF。主页未使用第三方分析或字体服务，无构建与运行时依赖。
