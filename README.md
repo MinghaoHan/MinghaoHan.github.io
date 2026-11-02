@@ -6,6 +6,7 @@
 
 - `index.html`：个人主页结构、基本信息与搜索引擎元数据。
 - `portfolio/profile.js`：简介、项目、工作教育经历与技能数据。
+- `en.html`、`portfolio/profile.en.js`：专业英文主页与英文履历，两种语言通过简介区域的语言链接切换。更新经历时同步核对两种语言的日期、指标与贡献边界。
 - `portfolio/app.js`：长页导航、项目深链接与详情展开。
 - `portfolio/style.css`：桌面与手机排版。
 - 头像：引用本人公开的 GitHub 头像地址。
