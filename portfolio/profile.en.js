@@ -1,3 +1,4 @@
+// Momenta listing and scale: https://www.momenta.ai/en/article/582.html (2026-07-08; verified 2026-11-03).
 // English editorial version of the verified Chinese profile. Keep dates and metrics aligned.
 window.PROFILE = {
   name: 'Minghao Han',
@@ -124,6 +125,7 @@ window.PROFILE = {
     {
       period: 'Jun 2026 — Present', title: 'Momenta', role: 'Senior Algorithm Engineer',
       detail: 'AI Agents · Developer Tools and Engineering Productivity',
+      companyOverview: 'Hong Kong–listed autonomous driving technology company (HKEX: 6880), with systems deployed in over 1 million production vehicles across more than 100 models (company disclosure, July 2026).',
       bullets: [
         'Build a multi-agent platform for parking-system development, integrating domain tools with task routing, session management, asynchronous execution, and reliable result delivery.',
         'Develop usage analytics across tools and agent runtimes, standardizing attribution by user, agent, and skill while improving aggregation and query performance.',

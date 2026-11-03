@@ -1,3 +1,4 @@
+// Momenta listing and scale: https://www.momenta.ai/en/article/582.html (2026-07-08; verified 2026-11-03).
 // 内容依据：个人简历、本人确认的任职信息及近期工程记录。
 window.PROFILE = {
   "name": "韩明浩",
@@ -314,6 +315,7 @@ window.PROFILE = {
       "title": "Momenta",
       "role": "高级算法工程师",
       "detail": "AI Agent · 研发工具与工程效率",
+      "companyOverview": "港交所主板上市的自动驾驶科技公司（6880.HK），智能驾驶方案已搭载超 100 万辆量产车、覆盖 100 余款车型（2026 年 7 月披露）。",
       "bullets": [
         "建设泊车研发多智能体系统，连接领域工具，完善任务路由、会话管理、异步执行和结果交付。",
         "建设多来源工具使用看板，统一用户、Agent 与 Skill 的统计归属，优化数据聚合与查询性能。",
