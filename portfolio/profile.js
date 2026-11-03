@@ -326,7 +326,7 @@ window.PROFILE = {
       "period": "2024.02 — 2026.06",
       "title": "华为技术有限公司",
       "role": "高级软件工程师",
-      "detail": "此前经历 · Agent Infra 研发与终端性能优化",
+      "detail": "Agent Infra 研发与终端性能优化",
       "bullets": [
         "参与 ReAct Multi-Agent 框架开发，主导意图识别框架、Harness 工程、推理编排引擎与 AI 安全防护网。",
         "落地事件订阅机制与 skill-hub 服务，通过框架 SDK 化和责任链设计支持领域智能体自构建。",
